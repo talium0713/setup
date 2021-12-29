@@ -11,3 +11,5 @@ recommended 확인 후 맞는 nvidia-driver-xxx 설치
 ```sudo reboot```
 
 리부팅 이후 ```nvidia-smi```로 cuda 설치 확인
+
+참고 : <https://nirsa.tistory.com/332>
